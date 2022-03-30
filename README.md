@@ -12,6 +12,11 @@ This script automatically connect to a PANOS firewall and will do the followings
 <br>
 6) Send ICMP packets for each arp entry based on user request 
 <br>
+
+<br>
+Note: Currently the script is doing the work on the policies that are pushed from Panorama to the firewall.
+<br>
+
 <br>
 Below is an example of running the script. Please Check the options at the launch of the script for your case. Once all info is collected script will pause simulating an actual 
 <br>
