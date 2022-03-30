@@ -1,16 +1,16 @@
 This script automatically connect to a PANOS firewall and will do the followings:
 <br>
-1) Collect Interface ip addresses
+1)Collect Interface ip addresses
 <br>
-2) Collect ARP entries from the firewall
+2)Collect ARP entries from the firewall
 <br>
-3) Collect Translated Source and Destination Entries in NAT Policies 
+3)Collect Translated Source and Destination Entries in NAT Policies 
 <br>
-4) Send GARP for interface ips 
+4)Send GARP for interface ips 
 <br>
-5) Send GARP for natted addresses based on ussr request 
+5)Send GARP for natted addresses based on ussr request 
 <br>
-6) Send ICMP packets for each arp entry based on user request 
+6)Send ICMP packets for each arp entry based on user request 
 <br>
 
 <br>
