@@ -13,7 +13,7 @@ This script automatically connect to a PANOS firewall and will do the followings
 6) Send ICMP packets for each arp entry based on user request 
 <br>
 <br>
-Below is an example of running the script. Please Check the options at the lunch of the script for your case. Once all info is collected script will pause simulating an actual 
+Below is an example of running the script. Please Check the options at the launch of the script for your case. Once all info is collected script will pause simulating an actual 
 <br>
 migration where you will need the commands after the switch over to the new firewalls. 
 <br>
